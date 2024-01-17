@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huynguyen</h1>
-<h3 align="center">A passionate Backend developer from AVG Team Viet Nam</h3>
+<h3 align="center">This is my source code in uninversity</h3>
 
 - 🔭 I’m currently working on [AVG Team](https://github.com/AVG-Team)
 
